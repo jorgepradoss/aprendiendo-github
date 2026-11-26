@@ -6,3 +6,4 @@ Mi primer repositorio para aprender Git y GitHub.
 - Qué es GitHub
 - Qué es un repositorio
 - Qué es un commit
+- Qué es una rama
